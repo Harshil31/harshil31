@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=harshil31&color=orange)
+![](https://komarev.com/ghpvc/?username=harshil31&style=for-the-badge&color=orange)
 
 
 
